@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "provider": "deepseek",
+  "base_url": "https://api.deepseek.com",
+  "model": "deepseek-chat",
+  "api_key": "sk-c2222f70c4e545679e5e0c7abdae91fa",
+  "temperature": 0.3,
+  "max_tokens": 600
+}
